@@ -9,7 +9,7 @@ const port = process.env.PORT || 5000;
 /// Define allowed origins
 const allowedOrigins = [
   "http://localhost:5173", // Local development
-  "https://book-app-frontend-sepia.vercel.app", // Deployed frontend
+  "https://book-store-mern-app-frontend.vercel.app", // Deployed frontend
 ];
 
 // Enable CORS with allowed origins
